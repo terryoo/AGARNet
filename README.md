@@ -3,6 +3,10 @@
 ## Paper
 [**Early Access**](https://ieeexplore.ieee.org/document/8967086)
 
+<img src = "/figs/st_jpeg.png" width="280"> <img src = "/figs/st_sr_jpeg.png" width="280"> <img src = "/figs/st_sr_proposed.png" width="280">
+<img src = "/figs/ronda_jpeg.png" width="280"> <img src = "/figs/ronda_jpeg_hdr.png" width="280"> <img src = "/figs/ronda_jpeg_hdr_processed.png" width="280">
+
+
 ## Test Code
 [**Code**]()
 
@@ -14,11 +18,11 @@ Specifically, the estimator gives a pixel-wise quality factor, and our gating sc
 Thus, our gating scheme guarantees the proposed network to perform adaptively without changing the parameters according to the change of quality factor. Moreover, we exploit the Discrete Cosine Transform (DCT) scheme with 3D convolution for capturing both spatial and frequency dependencies of images. Experiments show that the proposed network provides better performance than the state-of-the-art methods over a wide range of quality factor. Also, the proposed method provides robust results in real-world scenarios such as the manipulation of transcoded images and videos.
 
 ## Network Architecture
+
 <img src = "/figs/Flow.png" width="900">
-The architecture of AGARNet
-<img src = "/figs/resblock2.png" width="400">
+The architecture of AGARNet.
 <img src = "/figs/resblock3.png" width="400">
-The proposed Gate-ResBlock and 3DG-ResBlock
+The proposed 3DG-ResBlock.
 
 
 
