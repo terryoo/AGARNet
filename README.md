@@ -26,12 +26,14 @@ The proposed 3DG-ResBlock.
 
 ## Experimental Results
 ### Single JPEG Compression
-<img src = "/figs/jpeg_results.PNG" width="900">
 <img src = "/figs/jpeg_gain.PNG" width="450">
+<img src = "/figs/jpeg_results.PNG" width="900">
+
 
 ### JPEG Recompression
-<img src = "/figs/recompression_figure.png" width="900">
 <img src = "/figs/recompression.PNG" width="450">
+<img src = "/figs/recompression_figure.png" width="900">
+
 
 ### Video to JPEG Recompression
 <img src = "/figs/transcoded.PNG" width="450">
