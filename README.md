@@ -10,7 +10,7 @@
 ## Test Code
 [**Code**]()
 
-[**Trained Model**](https://drive.google.com/drive/folders/1wMxa2Y4vrHDHjBOpyCp23zHHWeShyY8R?usp=sharing)
+[**Trained Model**](https://drive.google.com/drive/folders/1vajSO5pDaGDvTbL9caPe7uXi5TB-P-U9?usp=sharing)
 
 ## Abstract
 Most of existing compression artifacts reduction methods focused on the application for low-quality images and usually assumed a known compression quality factor. However, images compressed with high quality should also be manipulated because even small artifacts become noticeable when we enhance the compressed image. Also, the use of quality factor from the decoder is not practical because there are too many recompressed or transcoded images whose quality factor are not reliable and spatially varying. To address these issues, we propose a quality-adaptive artifacts removal network based on the gating scheme, with a quality estimator that works for a wide range of quality factor. 
