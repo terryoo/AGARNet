@@ -18,11 +18,12 @@ Specifically, the estimator gives a pixel-wise quality factor, and our gating sc
 Thus, our gating scheme guarantees the proposed network to perform adaptively without changing the parameters according to the change of quality factor. Moreover, we exploit the Discrete Cosine Transform (DCT) scheme with 3D convolution for capturing both spatial and frequency dependencies of images. Experiments show that the proposed network provides better performance than the state-of-the-art methods over a wide range of quality factor. Also, the proposed method provides robust results in real-world scenarios such as the manipulation of transcoded images and videos.
 
 ## Network Architecture
-
-<img src = "/figs/Flow.png" width="900">
 * The architecture of AGARNet.
-<img src = "/figs/resblock3.png" width="300">
+<img src = "/figs/Flow.png" width="900">
+
 * The proposed 3DG-ResBlock.
+<img src = "/figs/resblock3.png" width="300">
+
 
 ## Experimental Results
 ### Single JPEG Compression
