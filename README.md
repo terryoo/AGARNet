@@ -1,7 +1,7 @@
 # AGARNet: Adaptively Gated JPEG Compression Artifacts Removal Network for a Wide Range Quality Factor (IEEE Accesss 2020)
 
 ## Paper
-[**Early Access**](https://ieeexplore.ieee.org/document/8967086)
+[**IEEE Access**](https://ieeexplore.ieee.org/document/8967086)
 
 <img src = "/figs/st_jpeg.png" width="280"> <img src = "/figs/st_sr_jpeg.png" width="280"> <img src = "/figs/st_sr_proposed.png" width="280">
 <img src = "/figs/ronda_jpeg.png" width="280"> <img src = "/figs/ronda_jpeg_hdr.png" width="280"> <img src = "/figs/ronda_jpeg_hdr_processed.png" width="280">
