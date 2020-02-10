@@ -20,9 +20,9 @@ Thus, our gating scheme guarantees the proposed network to perform adaptively wi
 ## Network Architecture
 
 <img src = "/figs/Flow.png" width="900">
-The architecture of AGARNet.
+* The architecture of AGARNet.
 <img src = "/figs/resblock3.png" width="300">
-The proposed 3DG-ResBlock.
+* The proposed 3DG-ResBlock.
 
 ## Experimental Results
 ### Single JPEG Compression
