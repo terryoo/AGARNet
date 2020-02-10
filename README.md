@@ -39,7 +39,7 @@ The proposed 3DG-ResBlock.
 <img src = "/figs/transcoded.PNG" width="450">
 
 ## Requirements and Dependencies 
-* Tensorflow 1.13.1 >=
+* Tensorflow 1.13.1
 
 ## Citation
 ```
