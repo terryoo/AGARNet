@@ -8,7 +8,7 @@
 
 
 ## Test Code
-[**Code**]()
+[**Code**](https://github.com/terryoo/AGARNet/tree/master/code)
 
 [**Trained Model**](https://drive.google.com/drive/folders/1vajSO5pDaGDvTbL9caPe7uXi5TB-P-U9?usp=sharing)
 
@@ -37,6 +37,9 @@ The proposed 3DG-ResBlock.
 
 ### Video to JPEG Recompression
 <img src = "/figs/transcoded.PNG" width="450">
+
+## Requirements and Dependencies 
+* Tensorflow 1.13.1 >=
 
 ## Citation
 ```
