@@ -12,6 +12,9 @@
 
 [**Trained Model**](https://drive.google.com/drive/folders/1vajSO5pDaGDvTbL9caPe7uXi5TB-P-U9?usp=sharing)
 
+## Requirements and Dependencies 
+* Tensorflow 1.13.1
+
 ## Abstract
 Most of existing compression artifacts reduction methods focused on the application for low-quality images and usually assumed a known compression quality factor. However, images compressed with high quality should also be manipulated because even small artifacts become noticeable when we enhance the compressed image. Also, the use of quality factor from the decoder is not practical because there are too many recompressed or transcoded images whose quality factor are not reliable and spatially varying. To address these issues, we propose a quality-adaptive artifacts removal network based on the gating scheme, with a quality estimator that works for a wide range of quality factor. 
 Specifically, the estimator gives a pixel-wise quality factor, and our gating scheme generates gate-weights from the quality factor. Then, the gate-weights control the magnitudes of feature maps in our artifacts removal network. 
@@ -39,8 +42,6 @@ Thus, our gating scheme guarantees the proposed network to perform adaptively wi
 ### Video to JPEG Recompression
 <img src = "/figs/transcoded.PNG" width="450">
 
-## Requirements and Dependencies 
-* Tensorflow 1.13.1
 
 ## Citation
 ```
