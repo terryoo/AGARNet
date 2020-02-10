@@ -38,4 +38,14 @@ The proposed 3DG-ResBlock.
 ### Video to JPEG Recompression
 <img src = "/figs/transcoded.PNG" width="450">
 
+## Citation
+```
+@article{kim2020agarnet,
+  title={AGARNet: Adaptively Gated JPEG Compression Artifacts Removal Network for a Wide Range Quality Factor},
+  author={Kim, Yoonsik and Soh, Jae Woong and Cho, Nam Ik},
+  journal={IEEE Access},
+  year={2020},
+  publisher={IEEE}
+}
+```
 
